@@ -14,7 +14,7 @@
 
             private string role;
 
-            private string created_at;
+        private string created_at;
 
             private string updated_at;
             public string Email { get => email; set => email = value; }
